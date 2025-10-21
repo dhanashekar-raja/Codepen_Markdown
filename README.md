@@ -1,5 +1,6 @@
 # Codepen_Markdown
 Understanding the Markdown concepts and workflow using Codepen.
+
 **Note:** *The topics and sections discussed in this project are purely for training purposes and to gain an insight into Markdown*. 
 
 ## Sample Project 
