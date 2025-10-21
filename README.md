@@ -1,5 +1,6 @@
 # Codepen_Markdown
 Understanding the Markdown concepts and workflow using Codepen.
+**Note:** *The topics and sections discussed in this project are purely for training purposes and to gain an insight into Markdown*. 
 
 ## Sample Project 
 # How to Withdraw Money from an ATM
@@ -29,7 +30,7 @@ This section describes how to *withdraw money* from an ATM in simple steps.
 ## HDFC Bank
 HDFC Bank Limited is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and market capitalisation.
 ### Position and Significance
-* It is the largest private-sector bank in India by assets and market capitalization. 
+* It is the largest private-sector bank in India in terms of assets and market capitalization. 
 * The **Reserve Bank of India (RBI)** classifies HDFC Bank as a Domestic Systemically Important Bank (D-SIB), meaning it’s among banks considered “too big to fail.” 
 * After its merger with its former parent, HDFC Ltd (a major housing finance institution), in July 2023, the bank became even more significant in India’s financial sector.
 ### Mission, Vision, and Values
