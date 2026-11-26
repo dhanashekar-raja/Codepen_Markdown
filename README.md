@@ -3,9 +3,8 @@ This sample guide was written using CodePen's Markdown to understand its concept
 
 > [!Note]
 > The topics and sections discussed in this project are purely for training purposes and to gain insight into Markdown. 
-
-## Sample Project 
-# How to Withdraw Money from an ATM
+ 
+## How to Withdraw Money from an ATM
 
 This section describes how to withdraw money from an Automated Teller Machine (ATM) in simple steps.
 
@@ -16,21 +15,24 @@ This section describes how to withdraw money from an Automated Teller Machine (A
 3. Select one of the following options:
    * Savings Account
    * Current Account
-6. Select **Withdraw** after confirming the account type.
-7. Enter the amount to be withdrawn from the account.
-8. Enter your 4-digit or 6-digit ATM PIN to dispense the amount.
-   > [!Note]
-   > Ensure there's no one in the ATM when you withdraw your money, and maintain privacy when entering your ATM PIN.
+4. Select **Withdraw** after confirming the account type.
+5. Enter the amount to be withdrawn from the account.
+6. Enter your 4-digit or 6-digit ATM PIN to dispense the amount.
+   
+   > [!Caution]
+   > Ensure you pay attention to your surroundings and maintain privacy when entering your ATM PIN.
     
+   For more information, refer to the <a href="https://www.hdfc.bank.in/privacy-policy" target="_blank">HDFC's Data Privacy Policy</a>
 
->> For more information, refer to the data privacy policy by visiting <https://www.hdfcbank.com/>
->> ![](https://i.ytimg.com/vi/878f72DLxuI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDfh30kp_nc_FBGzpyo9glmkAkWRQ 'Data Privacy Update')
+   ![HDFC_Logo_ImageC:\Users\danie\GitHub\Codepen_Markdown\assets\HDFC_Bank_Logo.jpg](https://camo.githubusercontent.com/69f5cbc8c64fa9526c5adabebb63c19433dabd6971af2e33b8fecbddc3c518cc/68747470733a2f2f692e7974696d672e636f6d2f76692f383738663732444c7875492f68713732302e6a70673f7371703d2d6f61796d774568434b344645494944534672797134717041784d4941525541414141414741456c41414449516a3041674b4a442672733d414f6e34434c44666833306b705f6e635f4642477a70796f39676c6d6b416b575251)
+
 7. Press **OK** to withdraw the money.
-8. Collect the money, take the receipt, and Press **Exit** to complete the transaction.
+8. Collect the money, take the receipt, and Select **Exit** to complete the transaction.
 
 ***
 ## HDFC Bank
 HDFC Bank Limited is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and market capitalisation.
+
 ### Position and Significance
 * It is the largest private-sector bank in India in terms of assets and market capitalization. 
 * The **Reserve Bank of India (RBI)** classifies HDFC Bank as a Domestic Systemically Important Bank (D-SIB), meaning it’s among banks considered “too big to fail.” 
@@ -39,12 +41,11 @@ HDFC Bank Limited is an Indian banking and financial services company headquarte
 * **Mission:** To be a "world-class Indian bank" by being the preferred provider of banking services to retail and wholesale customers, while achieving healthy profitability consistent with risk appetite.
 * The bank emphasizes customer focus, product leadership, sustainability, and people orientation among its core values.
 
-***
 ## Glossary
 
 The following table describes some useful definitions to understand the financial terminology.
 
-Fields | Description
-:---|---
-ATM | Automated Teller Machine
-ATM PIN | A 4-digit or 6-digit code given to the customer to withdraw money from the ATM
+| Fields  | Description                                                                    |
+| :------ | ------------------------------------------------------------------------------ |
+| ATM     | Automated Teller Machine                                                       |
+| ATM PIN | A 4-digit or 6-digit code given to the customer to withdraw money from the ATM |
